@@ -2,6 +2,15 @@
 
 ### UK-based. If you'd like to get in touch, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/alistair-hopson/).
 
+### Projects: 
+
+
+### - [alistairhopson.com](https://www.alistairhopson.com/),&nbsp;an overview of my background and skills [(repo)](https://github.com/AlistairHopson/portfolio)
+
+### - [newsbloom](https://newsbloom.netlify.app/),&nbsp; a mobile-first news-aggregation application. [(frontend repo)](https://github.com/AlistairHopson/newsbloom) / [(backend repo)](https://github.com/AlistairHopson/newsbloom-api)
+
+### - [zen typing](https://zentyping.web.app/),&nbsp; a typing training tool using face-recognition (a group project during the final phase of the Northcoders bootcamp)  [(repo)](https://github.com/Northcoders-PAST-team/zen-typing) / [(presentation)](https://northcoders.com/projects/aug-2022/zen-typing)
+
 
 ### Tech Skills:
 [<img src=https://user-images.githubusercontent.com/97353455/188466241-957f10df-8628-416a-abb3-fd8115e289f2.svg width="30px">](https://reactjs.org/)
