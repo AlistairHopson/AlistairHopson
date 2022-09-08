@@ -7,7 +7,7 @@
 
 ### - [alistairhopson.com](https://www.alistairhopson.com/),&nbsp;an overview of my background and skills [(repo)](https://github.com/AlistairHopson/portfolio)
 
-### - [newsbloom](https://newsbloom.netlify.app/),&nbsp; a mobile-first news-aggregation application. [(frontend repo)](https://github.com/AlistairHopson/newsbloom) / [(backend repo)](https://github.com/AlistairHopson/newsbloom-api)
+### - [newsbloom](https://newsbloom.netlify.app/),&nbsp; a mobile-first news-aggregation application [(frontend repo)](https://github.com/AlistairHopson/newsbloom) / [(backend repo)](https://github.com/AlistairHopson/newsbloom-api)
 
 ### - [zen typing](https://zentyping.web.app/),&nbsp; a typing training tool using face-recognition (a group project during the final phase of the Northcoders bootcamp)  [(repo)](https://github.com/Northcoders-PAST-team/zen-typing) / [(presentation)](https://northcoders.com/projects/aug-2022/zen-typing)
 
