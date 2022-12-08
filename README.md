@@ -1,6 +1,6 @@
-## Hi, I'm a recent coding bootcamp graduate looking for a junior developer role.&nbsp; 👋
+## Hi, I'm a UK-based full stack developer 👋
 
-### UK-based. If you'd like to get in touch, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/alistair-hopson/).
+### If you'd like to get in touch, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/alistair-hopson/).
 
 ### Projects: 
 
